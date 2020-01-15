@@ -1,0 +1,28 @@
+.systain{
+    display: inline-block;
+    width:30%;
+}
+
+
+.systain img{
+    width: 80%;
+}
+
+.cen2{
+    position: relative;
+}
+
+#hen{
+    position: absolute;
+    right: 0;
+    top:-50px;
+}
+h3{
+    color:#0c4da2;
+}
+@media all and (max-width:900px)
+{
+    #hen{
+        display: none;
+    }
+}
